@@ -1,0 +1,23 @@
+
+body {
+   background-image: url(https://c.pxhere.com/photos/b9/2e/smartphone_white_iphone_technology_display_device_wireless_mobile_phone-1201565.jpg!d);
+   background-position: right;
+    background-size: 1024px 1024px;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-color:rgba(31, 125, 31, 0.744);
+    color:beige;
+    letter-spacing: 2px;
+    line-height:  30px;
+    margin:10px 120px;
+}
+h1 {
+   border: 4px outset blanchedalmond;
+   text-decoration:underline black;
+}
+#fname #others #times {
+    border:4px sollid black ;
+}
+.a {
+    border: 2px solid black;
+}
